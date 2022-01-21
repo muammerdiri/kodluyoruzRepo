@@ -20,7 +20,7 @@ li{
     list-style-type: none;
     margin:10px;
 }
-a{
+li a{
     color: #FFC600;
     text-decoration: none;
 }
@@ -35,4 +35,12 @@ a{
 .main{
     margin-left: 20px;
     margin-right: 20px;
+}
+.gradient{
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    border: 1px solid transparent;
+    box-shadow: 3px 3px 2px 1px rgba(150, 150, 248, 0.541); 
+    background: linear-gradient(90deg,rgba(31, 0, 209, 0.582),rgba(27, 150, 47, 0.774));
 }
