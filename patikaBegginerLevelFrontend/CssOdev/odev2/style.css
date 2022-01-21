@@ -47,7 +47,7 @@ li{
 footer{
     text-align: center;
 }
-button{
+.form-button{
     font-size: large;
     width: 150px;
 }
